@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 47c52344a46a34845916570958134edb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7770536930937036059
+    second: space marine shooting-space_marine_shooting_0
+  - first:
+      213: -3125745094972169024
+    second: space marine shooting-space_marine_shooting_1
+  - first:
+      213: -9189513537303666540
+    second: space marine shooting-space_marine_shooting_2
+  - first:
+      213: -1834189127724878586
+    second: space marine shooting-space_marine_shooting_3
+  - first:
+      213: 1911261264512049366
+    second: space marine shooting-space_marine_shooting_4
+  - first:
+      213: -3312387170334013352
+    second: space marine shooting-space_marine_shooting_5
+  - first:
+      213: -4351177877563378464
+    second: space marine shooting-space_marine_shooting_6
+  - first:
+      213: -473865432876018916
+    second: space marine shooting-space_marine_shooting_7
+  - first:
+      213: 3473097673500985487
+    second: space marine shooting-space_marine_shooting_8
+  - first:
+      213: 4535451249560576810
+    second: space marine shooting-space_marine_shooting_9
+  - first:
+      213: -6919405097586834877
+    second: space marine shooting-space_marine_shooting_10
+  - first:
+      213: 4591867479137151720
+    second: space marine shooting-space_marine_shooting_11
+  - first:
+      213: -4357688749418928928
+    second: space marine shooting-space_marine_shooting_12
+  - first:
+      213: -349017532084852496
+    second: space marine shooting-space_marine_shooting_13
+  - first:
+      213: 8952771178411238292
+    second: space marine shooting-space_marine_shooting_14
+  - first:
+      213: -5511479044904776363
+    second: space marine shooting-space_marine_shooting_15
+  - first:
+      213: 6820094575125533427
+    second: space marine shooting-space_marine_shooting_16
+  - first:
+      213: 6995511626874855708
+    second: space marine shooting-space_marine_shooting_17
+  - first:
+      213: -7601243832003848512
+    second: space marine shooting-space_marine_shooting_18
+  - first:
+      213: 2410717377016978121
+    second: space marine shooting-space_marine_shooting_19
+  - first:
+      213: -6623947613265207914
+    second: space marine shooting-space_marine_shooting_20
+  - first:
+      213: 9001570007680287896
+    second: space marine shooting-space_marine_shooting_21
+  - first:
+      213: -8540361499987311352
+    second: space marine shooting-space_marine_shooting_22
+  - first:
+      213: -1771226393617462902
+    second: space marine shooting-space_marine_shooting_23
+  - first:
+      213: 6285502208990777367
+    second: space marine shooting-space_marine_shooting_24
+  - first:
+      213: -7507493711491490291
+    second: space marine shooting-space_marine_shooting_25
+  - first:
+      213: -7633114933340120489
+    second: space marine shooting-space_marine_shooting_26
+  - first:
+      213: -1808858325859150433
+    second: space marine shooting-space_marine_shooting_27
+  - first:
+      213: -2669708758416464009
+    second: space marine shooting-space_marine_shooting_28
+  - first:
+      213: -2303565825836454709
+    second: space marine shooting-space_marine_shooting_29
+  - first:
+      213: 5045653308462423003
+    second: space marine shooting-space_marine_shooting_30
+  - first:
+      213: 912563859789777467
+    second: space marine shooting-space_marine_shooting_31
+  - first:
+      213: 9018231787739194997
+    second: space marine shooting-space_marine_shooting_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d5e8a2b2e76db60800000000000000
+      internalID: 7770536930937036059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4a3c3a56f1f94d0800000000000000
+      internalID: -3125745094972169024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4902f5e302a487080800000000000000
+      internalID: -9189513537303666540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605331fc4b6ab86e0800000000000000
+      internalID: -1834189127724878586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d064386ef9268a10800000000000000
+      internalID: 1911261264512049366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8580ea91b690802d0800000000000000
+      internalID: -3312387170334013352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4fb4d16c28d93c0800000000000000
+      internalID: -4351177877563378464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13961246ed7c69f0800000000000000
+      internalID: -473865432876018916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88034bceebe23030800000000000000
+      internalID: 3473097673500985487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e822b1e821fe30800000000000000
+      internalID: 4535451249560576810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3424f4d69b559ff90800000000000000
+      internalID: -6919405097586834877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea63adb42799bf30800000000000000
+      internalID: 4591867479137151720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42b21ab216683c0800000000000000
+      internalID: -4357688749418928928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8e2bb576a082bf0800000000000000
+      internalID: -349017532084852496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493ae84f3f1ae3c70800000000000000
+      internalID: 8952771178411238292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d017d720b4383b0800000000000000
+      internalID: -5511479044904776363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f21de4b1e7d5ae50800000000000000
+      internalID: 6820094575125533427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11adf5c2cc051160800000000000000
+      internalID: 6995511626874855708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c618460205f28690800000000000000
+      internalID: -7601243832003848512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca55fe8ea6947120800000000000000
+      internalID: 2410717377016978121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dd78cadb20314a0800000000000000
+      internalID: -6623947613265207914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940898ca300cec70800000000000000
+      internalID: 9001570007680287896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80585dbe67a8a7980800000000000000
+      internalID: -8540361499987311352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8982a7baf65b67e0800000000000000
+      internalID: -1771226393617462902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space marine shooting-space_marine_shooting_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71014d105f69a3750800000000000000
+      internalID: 6285502208990777367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3bea0c97409460b4fa0d86bc481cde96
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":256.0,"y":256.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      space marine shooting-space_marine_shooting_0: 7770536930937036059
+      space marine shooting-space_marine_shooting_1: -3125745094972169024
+      space marine shooting-space_marine_shooting_10: -6919405097586834877
+      space marine shooting-space_marine_shooting_11: 4591867479137151720
+      space marine shooting-space_marine_shooting_12: -4357688749418928928
+      space marine shooting-space_marine_shooting_13: -349017532084852496
+      space marine shooting-space_marine_shooting_14: 8952771178411238292
+      space marine shooting-space_marine_shooting_15: -5511479044904776363
+      space marine shooting-space_marine_shooting_16: 6820094575125533427
+      space marine shooting-space_marine_shooting_17: 6995511626874855708
+      space marine shooting-space_marine_shooting_18: -7601243832003848512
+      space marine shooting-space_marine_shooting_19: 2410717377016978121
+      space marine shooting-space_marine_shooting_2: -9189513537303666540
+      space marine shooting-space_marine_shooting_20: -6623947613265207914
+      space marine shooting-space_marine_shooting_21: 9001570007680287896
+      space marine shooting-space_marine_shooting_22: -8540361499987311352
+      space marine shooting-space_marine_shooting_23: -1771226393617462902
+      space marine shooting-space_marine_shooting_24: 6285502208990777367
+      space marine shooting-space_marine_shooting_3: -1834189127724878586
+      space marine shooting-space_marine_shooting_4: 1911261264512049366
+      space marine shooting-space_marine_shooting_5: -3312387170334013352
+      space marine shooting-space_marine_shooting_6: -4351177877563378464
+      space marine shooting-space_marine_shooting_7: -473865432876018916
+      space marine shooting-space_marine_shooting_8: 3473097673500985487
+      space marine shooting-space_marine_shooting_9: 4535451249560576810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

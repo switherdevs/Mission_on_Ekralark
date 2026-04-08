@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: bce2c145591da7d429892b2ab7929c9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3924397282872818939
+    second: warrior-full combo attack with 3 swings_0
+  - first:
+      213: -2126670145326174943
+    second: warrior-full combo attack with 3 swings_1
+  - first:
+      213: 7821538136158653518
+    second: warrior-full combo attack with 3 swings_2
+  - first:
+      213: -6670597394695460593
+    second: warrior-full combo attack with 3 swings_3
+  - first:
+      213: 1133101618290521020
+    second: warrior-full combo attack with 3 swings_4
+  - first:
+      213: 3284599629648216252
+    second: warrior-full combo attack with 3 swings_5
+  - first:
+      213: 2974582819952756912
+    second: warrior-full combo attack with 3 swings_6
+  - first:
+      213: -2525710967908575382
+    second: warrior-full combo attack with 3 swings_7
+  - first:
+      213: 6385649984109181564
+    second: warrior-full combo attack with 3 swings_8
+  - first:
+      213: -2774441485563955022
+    second: warrior-full combo attack with 3 swings_9
+  - first:
+      213: -7759391349536872551
+    second: warrior-full combo attack with 3 swings_10
+  - first:
+      213: -2428689336601246327
+    second: warrior-full combo attack with 3 swings_11
+  - first:
+      213: 28972487627167258
+    second: warrior-full combo attack with 3 swings_12
+  - first:
+      213: 940289182250330266
+    second: warrior-full combo attack with 3 swings_13
+  - first:
+      213: 6323623353482899505
+    second: warrior-full combo attack with 3 swings_14
+  - first:
+      213: -6910304777770231593
+    second: warrior-full combo attack with 3 swings_15
+  - first:
+      213: 9064649387171549152
+    second: warrior-full combo attack with 3 swings_16
+  - first:
+      213: -4447959313888555047
+    second: warrior-full combo attack with 3 swings_17
+  - first:
+      213: 3120372752626379751
+    second: warrior-full combo attack with 3 swings_18
+  - first:
+      213: 6831668640906908414
+    second: warrior-full combo attack with 3 swings_19
+  - first:
+      213: -6714078483782439094
+    second: warrior-full combo attack with 3 swings_20
+  - first:
+      213: -2061288477795086829
+    second: warrior-full combo attack with 3 swings_21
+  - first:
+      213: 1393349411775158114
+    second: warrior-full combo attack with 3 swings_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5038bdca67db989c0800000000000000
+      internalID: -3924397282872818939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12da76935cc8c72e0800000000000000
+      internalID: -2126670145326174943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c48ea9e7fab8c60800000000000000
+      internalID: 7821538136158653518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09e78903074d63a0800000000000000
+      internalID: -6670597394695460593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb370ac1be599bf00800000000000000
+      internalID: 1133101618290521020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_5
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0cf8ae5fd359d20800000000000000
+      internalID: 3284599629648216252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_6
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b883429057d74920800000000000000
+      internalID: 2974582819952756912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_7
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a675088a14fd2fcd0800000000000000
+      internalID: -2525710967908575382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_8
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a7ec2f3d26e9850800000000000000
+      internalID: 6385649984109181564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_9
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87ad22b243f79d0800000000000000
+      internalID: -2774441485563955022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_10
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ad99bdaa115490800000000000000
+      internalID: -7759391349536872551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_11
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9858a168aef8b4ed0800000000000000
+      internalID: -2428689336601246327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_12
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d641f25ee66000800000000000000
+      internalID: 28972487627167258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a986c2687049c0d00800000000000000
+      internalID: 940289182250330266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_14
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13076bd9fe502c750800000000000000
+      internalID: 6323623353482899505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: warrior-full combo attack with 3 swings_15
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 0
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8125fba6aa910a0800000000000000
+      internalID: -6910304777770231593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 13ef4beb31168a44583ae602c383e433
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":16.0,"y":1.0},"gridSpriteSize":{"x":198.0,"y":96.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      warrior-full combo attack with 3 swings_0: -3924397282872818939
+      warrior-full combo attack with 3 swings_1: -2126670145326174943
+      warrior-full combo attack with 3 swings_10: -7759391349536872551
+      warrior-full combo attack with 3 swings_11: -2428689336601246327
+      warrior-full combo attack with 3 swings_12: 28972487627167258
+      warrior-full combo attack with 3 swings_13: 940289182250330266
+      warrior-full combo attack with 3 swings_14: 6323623353482899505
+      warrior-full combo attack with 3 swings_15: -6910304777770231593
+      warrior-full combo attack with 3 swings_2: 7821538136158653518
+      warrior-full combo attack with 3 swings_3: -6670597394695460593
+      warrior-full combo attack with 3 swings_4: 1133101618290521020
+      warrior-full combo attack with 3 swings_5: 3284599629648216252
+      warrior-full combo attack with 3 swings_6: 2974582819952756912
+      warrior-full combo attack with 3 swings_7: -2525710967908575382
+      warrior-full combo attack with 3 swings_8: 6385649984109181564
+      warrior-full combo attack with 3 swings_9: -2774441485563955022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

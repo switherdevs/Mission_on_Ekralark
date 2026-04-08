@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 37f46b22058b89a4092f3f96cf93bbe9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2557340073653828150
+    second: Move_gun_0
+  - first:
+      213: -6611251850467581091
+    second: Move_gun_1
+  - first:
+      213: 2266930308897164086
+    second: Move_gun_2
+  - first:
+      213: 5553662121484645823
+    second: Move_gun_3
+  - first:
+      213: -3987511537085664039
+    second: Move_gun_4
+  - first:
+      213: 5012092192892461516
+    second: Move_gun_5
+  - first:
+      213: 1450096569051325393
+    second: Move_gun_6
+  - first:
+      213: -1513072904507991252
+    second: Move_gun_7
+  - first:
+      213: 9035296158608585247
+    second: Move_gun_8
+  - first:
+      213: -6831927553916850427
+    second: Move_gun_9
+  - first:
+      213: 5408127900799015932
+    second: Move_gun_10
+  - first:
+      213: 2718243256295398023
+    second: Move_gun_11
+  - first:
+      213: -5328434162050240424
+    second: Move_gun_12
+  - first:
+      213: -2243243434993102138
+    second: Move_gun_13
+  - first:
+      213: -1037815929050131953
+    second: Move_gun_14
+  - first:
+      213: -8916465009685957676
+    second: Move_gun_15
+  - first:
+      213: 8712917079593943940
+    second: Move_gun_16
+  - first:
+      213: -2090521187550474280
+    second: Move_gun_17
+  - first:
+      213: 7429033548346615235
+    second: Move_gun_18
+  - first:
+      213: 5791645881487085294
+    second: Move_gun_19
+  - first:
+      213: -6395558721211751657
+    second: Move_gun_20
+  - first:
+      213: 6381383905949491689
+    second: Move_gun_21
+  - first:
+      213: -4191857563629671374
+    second: Move_gun_22
+  - first:
+      213: -8107388857725082425
+    second: Move_gun_23
+  - first:
+      213: 6648512408609618443
+    second: Move_gun_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Move_gun_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1088
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac50efb90c0828cd0800000000000000
+      internalID: -2557340073653828150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1089
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d536c3c487d1044a0800000000000000
+      internalID: -6611251850467581091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1090
+        width: 88
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bc160fa11c57f10800000000000000
+      internalID: 2266930308897164086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1091
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb572a16642921d40800000000000000
+      internalID: 5553662121484645823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_4
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1091
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4bc3e326389a8c0800000000000000
+      internalID: -3987511537085664039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 835
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc12dd25b478e8540800000000000000
+      internalID: 5012092192892461516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 834
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d321588527cf1410800000000000000
+      internalID: 1450096569051325393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 833
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b588fb53c700be0800000000000000
+      internalID: -1513072904507991252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_8
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 832
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12f0563cf1d36d70800000000000000
+      internalID: 9035296158608585247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_9
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 832
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f2599361e1031a0800000000000000
+      internalID: -6831927553916850427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 576
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb110b1ca78d0b40800000000000000
+      internalID: 5408127900799015932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 576
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a9698f6d329b520800000000000000
+      internalID: 2718243256295398023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_12
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 576
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85070f16c599d06b0800000000000000
+      internalID: -5328434162050240424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 576
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c252882bf56ed0e0800000000000000
+      internalID: -2243243434993102138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_14
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 578
+        width: 90
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0299be39efe891f0800000000000000
+      internalID: -1037815929050131953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 323
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3f77da05a524480800000000000000
+      internalID: -8916465009685957676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 323
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48381aebbef7ae870800000000000000
+      internalID: 8712917079593943940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 323
+        width: 92
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df40a45e0afcf2e0800000000000000
+      internalID: -2090521187550474280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_18
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 322
+        width: 94
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5e8a9c6aa391760800000000000000
+      internalID: 7429033548346615235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_19
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 321
+        width: 93
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee44e66e3f006050800000000000000
+      internalID: 5791645881487085294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 64
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a50a6a396e37a0800000000000000
+      internalID: -6395558721211751657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 64
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1a3893ada3f8850800000000000000
+      internalID: 6381383905949491689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_22
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 63
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca1da51c783d5c0800000000000000
+      internalID: -4191857563629671374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_23
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 64
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c42657e9c4cc7f80800000000000000
+      internalID: -8107388857725082425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_gun_24
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 64
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af3ff6fc2444c50800000000000000
+      internalID: 6648512408609618443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Move_gun_0: -2557340073653828150
+      Move_gun_1: -6611251850467581091
+      Move_gun_10: 5408127900799015932
+      Move_gun_11: 2718243256295398023
+      Move_gun_12: -5328434162050240424
+      Move_gun_13: -2243243434993102138
+      Move_gun_14: -1037815929050131953
+      Move_gun_15: -8916465009685957676
+      Move_gun_16: 8712917079593943940
+      Move_gun_17: -2090521187550474280
+      Move_gun_18: 7429033548346615235
+      Move_gun_19: 5791645881487085294
+      Move_gun_2: 2266930308897164086
+      Move_gun_20: -6395558721211751657
+      Move_gun_21: 6381383905949491689
+      Move_gun_22: -4191857563629671374
+      Move_gun_23: -8107388857725082425
+      Move_gun_24: 6648512408609618443
+      Move_gun_3: 5553662121484645823
+      Move_gun_4: -3987511537085664039
+      Move_gun_5: 5012092192892461516
+      Move_gun_6: 1450096569051325393
+      Move_gun_7: -1513072904507991252
+      Move_gun_8: 9035296158608585247
+      Move_gun_9: -6831927553916850427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

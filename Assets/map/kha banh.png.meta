@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: fdac1a3e80065d74b83dab3fa44e28a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1418083682353911082
+    second: kha banh_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kha banh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12798
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da648b7764f15ce0800000000000000
+      internalID: -1418083682353911082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 12798
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53c8cb40e4517e428dbf4fb1ec7b04a
+      internalID: -1026633670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 12798
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea1cc82d9a9ec84a8ed3a487477e1d6
+      internalID: -1408797229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 12798
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c17df5045148c45bb42d4af1431420
+      internalID: 1650198680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 12798
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b784ad33e835f4fb0d80374fc62fa7
+      internalID: -1034334938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11376
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1bd76aa4e7934ebe6116f76b48b8b
+      internalID: 688076870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 11376
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c920d0dbc9fb049961e7f80c849cd3
+      internalID: -617890800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 11376
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b1b86288965fb4eb7c63908920ae84
+      internalID: 179394621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 11376
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0c53ee86999b1498020843fcdf33cf
+      internalID: -1090711298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 11376
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbdc8239e62af4abd26c627f9bdafd
+      internalID: 661014299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9954
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6329eb72374304d4f855d6c9364f0755
+      internalID: -1262080691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 9954
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb93a94f1ccbf4583414449c5ca4f2
+      internalID: -1294921075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 9954
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5802033a65484d54cb8b46a7d163c859
+      internalID: 1992428214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 9954
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347e83285391c34b927183599557e42
+      internalID: -707714716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 9954
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e7ce307c19d6a458934af995dd4790
+      internalID: 1551920250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8532
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f2af0ca5924d498b0ec3ecf2e2af5
+      internalID: -1798139787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 8532
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1085ae771c6fc4eb79f655b3d007ab
+      internalID: 347846676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 8532
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117bdc0f631c2674c823ab4a4af8fd88
+      internalID: -411080925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 8532
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83d3be7bc13f4f48b33929b3ec42532
+      internalID: -1394003756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 8532
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff4ff78bec8c4a4cad97db0b64ac4f0
+      internalID: 2046817135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7110
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b021f4c16559dcb47bfcbc3904732f46
+      internalID: 1752858698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7110
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098de9b7e91749449bddf45e5e15d54
+      internalID: -883704796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7110
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6396c2b2646e554b9739151aab5c0fb
+      internalID: 809254901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7110
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b1e33add83a344ea854a168cd28b54
+      internalID: -649238244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7110
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1537ce9fddf91468ba3bc52a18b8ee
+      internalID: 1083793935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5688
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a13a835f248734c89d4c3334a1d512
+      internalID: 2125252342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5688
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e043e4f4660904243acc063281f815b7
+      internalID: -166616817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5688
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587dee374d18a034ca8d0238ab564660
+      internalID: 982451619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5688
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d0642dc04e4842ae8a7a448562406
+      internalID: 1188586330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5688
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573a38943531654fb899d290ca1f379
+      internalID: 222400221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4266
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fca4a1e11dfe8f49b850e4033e0ef99
+      internalID: 218689391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4266
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f0e185d71251a49828e33fae7e1bc1
+      internalID: -1765368457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4266
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ae5c3e8792a144a5da26cfab4b9cf
+      internalID: 177791327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4266
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc38243d70728d4a804c0e461de9e23
+      internalID: -1723383943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4266
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51181f171cad7946a450d022d888f3f
+      internalID: -1775551068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2844
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5d3b9a89fc4994a92ad90b3214d84f
+      internalID: -1263484891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2844
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452c0c4af63419478f216dfb85abd9b
+      internalID: -569801167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2844
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941f665774c1a241a7e4c709f01195a
+      internalID: -2093620654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2844
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01b8b336abae846b29af668ec34535
+      internalID: 1028182970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_39
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2844
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9185bda1317304ab5b47c4f1513bf5
+      internalID: -1239449745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1422
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69db40c84e65bdb439dcefa8bb07d353
+      internalID: 1136847382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1422
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77f88534fdccdd4387484af99dfce1d
+      internalID: 921707212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1422
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d6f65646dce74da0fb528db95bd9f
+      internalID: -436564377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1422
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771dbbfae11a62b44911a5976874068b
+      internalID: 871737287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1422
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69cdcbe7dafc7044b8ab44d1d7c130c
+      internalID: 774682689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124a3a733e84a749885d1f463bf8af3
+      internalID: -1865965787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1fa1a1fe4c3ac4482c17f6fd542dd8
+      internalID: -792532566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_47
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e79c103bbdcf74fb4be1999ec6a84e
+      internalID: 1156016606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1097f25a4173347831f5797137d9c8
+      internalID: -1464693505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kha banh_49
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 1422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef0a047a01dd7143b5193c5f2cab4cc
+      internalID: -1296826232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9df02e010d3fe76438f0bc5e9506890e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":10.0},"gridSpriteSize":{"x":800.0,"y":1422.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      kha banh_0: -1418083682353911082
+      kha banh_1: -1026633670
+      kha banh_10: -1262080691
+      kha banh_11: -1294921075
+      kha banh_12: 1992428214
+      kha banh_13: -707714716
+      kha banh_14: 1551920250
+      kha banh_15: -1798139787
+      kha banh_16: 347846676
+      kha banh_17: -411080925
+      kha banh_18: -1394003756
+      kha banh_19: 2046817135
+      kha banh_2: -1408797229
+      kha banh_20: 1752858698
+      kha banh_21: -883704796
+      kha banh_22: 809254901
+      kha banh_23: -649238244
+      kha banh_24: 1083793935
+      kha banh_25: 2125252342
+      kha banh_26: -166616817
+      kha banh_27: 982451619
+      kha banh_28: 1188586330
+      kha banh_29: 222400221
+      kha banh_3: 1650198680
+      kha banh_30: 218689391
+      kha banh_31: -1765368457
+      kha banh_32: 177791327
+      kha banh_33: -1723383943
+      kha banh_34: -1775551068
+      kha banh_35: -1263484891
+      kha banh_36: -569801167
+      kha banh_37: -2093620654
+      kha banh_38: 1028182970
+      kha banh_39: -1239449745
+      kha banh_4: -1034334938
+      kha banh_40: 1136847382
+      kha banh_41: 921707212
+      kha banh_42: -436564377
+      kha banh_43: 871737287
+      kha banh_44: 774682689
+      kha banh_45: -1865965787
+      kha banh_46: -792532566
+      kha banh_47: 1156016606
+      kha banh_48: -1464693505
+      kha banh_49: -1296826232
+      kha banh_5: 688076870
+      kha banh_6: -617890800
+      kha banh_7: 179394621
+      kha banh_8: -1090711298
+      kha banh_9: 661014299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

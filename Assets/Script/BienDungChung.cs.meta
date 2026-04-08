@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9870dcb0eeb93434baa0abb918eb37aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Dibo: {fileID: 7400000, guid: c0b25bbc365f9104c9944142570bde79, type: 2}
+  - Chay: {fileID: 7400000, guid: c0d4aca4dc781fb4085f29a4049656be, type: 2}
+  - Nhay: {fileID: 7400000, guid: 2fe1600933d7bef40be77c0b9ec759fc, type: 2}
+  - Roi: {fileID: 7400000, guid: df6f792bc730f6246bf111b55cdd8b88, type: 2}
+  - Gun_walk: {fileID: 7400000, guid: cfa782188dd67bb4ca3054dec5427b25, type: 2}
+  - Gun_Run: {instanceID: 0}
+  - Gun_Nhay: {instanceID: 0}
+  - Gun_Roi: {instanceID: 0}
+  - Ban: {fileID: 7400000, guid: 9369e7ab08e7e7b4e9e643241371825b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
