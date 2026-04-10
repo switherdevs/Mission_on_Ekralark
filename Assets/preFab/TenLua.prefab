@@ -4935,7 +4935,7 @@ GameObject:
   - component: {fileID: 1986498596337286197}
   m_Layer: 0
   m_Name: TenLua
-  m_TagString: Untagged
+  m_TagString: TenLua
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5077,6 +5077,7 @@ MonoBehaviour:
   WallCheck:
     serializedVersion: 2
     m_Bits: 256
+  Life: 5
 --- !u!50 &1986498596337286197
 Rigidbody2D:
   serializedVersion: 5

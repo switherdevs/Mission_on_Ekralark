@@ -1,12 +1,17 @@
 using System.Text.RegularExpressions;
+using UnityEditor;
+using UnityEditor.SearchService;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
     // animation_chung
     [SerializeField]
     public BienDungChung animation_chung;
-
+    [SerializeField]
+    public Object MapHienTai;
     //âm thanh
     [SerializeField] private AudioSource nhacnen;
     [SerializeField] private AudioSource AmthanhTong;
@@ -16,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private AudioClip LuomSung;
     [SerializeField] private AudioClip Nhay;
     [SerializeField] private AudioClip TiengSung;
+    [SerializeField] private AudioClip kickSound;
 
     // các biến khác trong game
     [Header("Speed")]
@@ -43,14 +49,25 @@ public class PlayerMovement : MonoBehaviour
     //animation
     Animator ani;
     AnimationClip CurrentAni;
-
+    //heath
+    [SerializeField] private float MaxMau = 100f;
+    [SerializeField] private Slider ThanhMau;
+    private float MauHienTai;
+    private float ThoiGianDa;
     //rigid
     Rigidbody2D rb;
+    //kick
+    [SerializeField] private Transform diemda;
+    [SerializeField] private float BanKinhcuDa = 0.5f;
+    [SerializeField] private float LucDa = 10f;
+    
     bool isGrounded;
     bool hasGun;
 
     void Start()
     {
+        MauHienTai = MaxMau;
+        UpdateThanhMau();
         hasGun = false;
         nhacnen.clip = nhac;
         nhacnen.Play();
@@ -58,9 +75,22 @@ public class PlayerMovement : MonoBehaviour
         ani = GetComponent<Animator>();
     }
 
+    void UpdateThanhMau() 
+    {
+        ThanhMau.value = MauHienTai / MaxMau;
+    }
+
     void Update()
     {
 
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            kick();
+            ChangeAnimation(animation_chung.kick);
+            AmthanhTong.PlayOneShot(kickSound);
+            ThoiGianDa = Time.time + 0.3f;
+        }
+        
         float move = 0;
 
         if (Input.GetKey(KeyCode.A))
@@ -151,6 +181,14 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
+    void MatMau(float Damge)
+    {
+        MauHienTai -= Damge;
+        MauHienTai = Mathf.Clamp(MauHienTai, 0, MaxMau);
+        UpdateThanhMau();
+
+        if (MauHienTai <= 0) die();
+    }
     void AmThanh(AudioClip clip, bool loop = false)
     {
         if (AmthanhTong == null || clip == null) return;
@@ -191,7 +229,12 @@ public class PlayerMovement : MonoBehaviour
 
         if (newAni == null) return;
 
+        if (Time.time < ThoiGianDa) return;
+
         if (animation_chung == null) return;
+
+       
+
 
         ani.Play(newAni.name);
         CurrentAni = newAni;
@@ -209,7 +252,42 @@ public class PlayerMovement : MonoBehaviour
             }
         }
 
+        if (other.CompareTag("spear"))
+        {
+            MatMau(5f);
+        }
 
+        if (other.CompareTag("TenLua"))
+        {
+            MatMau(10f);
+        }
+    }
+    void kick()
+    {
+        Collider2D[] XacDinh = Physics2D.OverlapCircleAll(diemda.position,BanKinhcuDa);
+        foreach(Collider2D vat in XacDinh)
+        {
+            Rigidbody2D rbVatThe = vat.GetComponent<Rigidbody2D>();
+            if(rbVatThe != null && vat.gameObject != gameObject)
+            {
+                Vector2 Huongda = (vat.transform.position - transform.position).normalized;
+
+                rbVatThe.AddForce(Huongda * LucDa,ForceMode2D.Impulse);
+            }
+        }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        if (diemda != null)
+        {
+            Gizmos.color = Color.yellow;
+            Gizmos.DrawWireSphere(diemda.position, BanKinhcuDa);
+        }
+    }
+    void die()
+    {
+        SceneManager.LoadScene(MapHienTai.name);
     }
 
 }

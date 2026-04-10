@@ -21,6 +21,18 @@ public class TenLua : MonoBehaviour
         {
             Destroy(gameObject);
         }
+        if (other.gameObject.CompareTag("Player"))
+        {
+            Destroy(gameObject);
+        }
+        if (other.gameObject.CompareTag("spear"))
+        {
+            Destroy(gameObject);
+        }
+        if (other.gameObject.CompareTag("Dan"))
+        {
+            Destroy(gameObject);
+        }
     }
     void Update()
     {

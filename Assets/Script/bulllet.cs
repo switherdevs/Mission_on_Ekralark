@@ -16,4 +16,19 @@ public class bulllet : MonoBehaviour
         }
     }
 
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Map"))
+        {
+            Destroy(gameObject);
+        }
+        if (collision.gameObject.CompareTag("spear"))
+        {
+            Destroy(gameObject);
+        }
+        if (collision.gameObject.CompareTag("TenLua"))
+        {
+            Destroy(gameObject);
+        }
+    }
 }

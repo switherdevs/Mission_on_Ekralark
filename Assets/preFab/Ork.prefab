@@ -116,7 +116,7 @@ MonoBehaviour:
     m_Bits: 256
   FirePoit: {fileID: 2049494860774091156}
   PreFabDan: {fileID: 7436056401421838274, guid: 3ef1e6a48f5924247bfea4c96f20a449, type: 3}
-  TocDoBan: 20
+  TocDoBan: 35
   CoolDown: 1
   playerLayer:
     serializedVersion: 2

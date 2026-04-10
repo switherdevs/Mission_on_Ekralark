@@ -10,7 +10,6 @@ public class Menu : MonoBehaviour
     [SerializeField] public Object map3;
     [SerializeField] public Object map4;
     [SerializeField] public Object map5;
-    [SerializeField] public Object menu;
     private VisualElement root;
 
     void Start()
@@ -23,9 +22,6 @@ public class Menu : MonoBehaviour
         root = GetComponent<UIDocument>().rootVisualElement;
         Button resume = root.Q<Button>("resume");
         resume.clicked += resumee;
-
-        Button MainMenu = root.Q<Button>("Menu");
-        MainMenu.clicked += mainmenu;
 
         Button map1 = root.Q<Button>("map1");
         map1.clicked += Map1;
@@ -46,11 +42,6 @@ public class Menu : MonoBehaviour
     {
         Time.timeScale = 1f;
         gameObject.SetActive(false);
-    }
-    void mainmenu()
-    {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(menu.name);
     }
     void Map1()
     {

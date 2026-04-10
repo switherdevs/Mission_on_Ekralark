@@ -10,6 +10,7 @@ public class BienDungChung : ScriptableObject
     [SerializeField] public AnimationClip Chay;
     [SerializeField] public AnimationClip Nhay;
     [SerializeField] public AnimationClip Roi;
+    [SerializeField] public AnimationClip kick;
 
     //co sung
     [SerializeField] public AnimationClip idel_gun;

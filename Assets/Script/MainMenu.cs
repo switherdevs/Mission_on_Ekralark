@@ -4,16 +4,27 @@ using UnityEngine;
 using UnityEngine.InputSystem.iOS;
 using UnityEngine.SceneManagement;
 using UnityEngine.UIElements;
+using UnityEngine.Video;
 public class MainMenu : MonoBehaviour
 {
     [SerializeField] public Object map1;
     [SerializeField] public GameObject Map;
+    [SerializeField] public VideoPlayer videolayer;
+    [SerializeField] public GameObject obVideo;
+
     private VisualElement root;
 
     void Start()
     {
         gameObject.SetActive(true);
         Map.SetActive(false);
+        if(videolayer != null)
+        {
+            videolayer.loopPointReached += (vp) =>
+            {
+                SceneManager.LoadScene(map1.name);
+            };
+        }
     }
 
     private void OnEnable()
@@ -35,7 +46,13 @@ public class MainMenu : MonoBehaviour
     void start()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(map1.name);
+        if(videolayer != null && obVideo != null)
+        {
+            root.style.display = DisplayStyle.None;
+            obVideo.SetActive(true);
+            videolayer.Play();
+        }
+
     }
 
     void Update()

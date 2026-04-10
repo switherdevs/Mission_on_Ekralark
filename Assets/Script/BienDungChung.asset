@@ -17,11 +17,8 @@ MonoBehaviour:
   Chay: {fileID: 7400000, guid: c0d4aca4dc781fb4085f29a4049656be, type: 2}
   Nhay: {fileID: 7400000, guid: 2fe1600933d7bef40be77c0b9ec759fc, type: 2}
   Roi: {fileID: 7400000, guid: df6f792bc730f6246bf111b55cdd8b88, type: 2}
+  kick: {fileID: 7400000, guid: 38cf043a774c9c044b336b432b3f0b7d, type: 2}
   idel_gun: {fileID: 7400000, guid: 0a00abcef6aee144f8d622432e38257c, type: 2}
   Gun_walk: {fileID: 7400000, guid: cfa782188dd67bb4ca3054dec5427b25, type: 2}
   Gun_Run: {fileID: 7400000, guid: 95f8cfa51fcb0cf4bb2fe402f1ab1fe7, type: 2}
   Gun_Nhay: {fileID: 7400000, guid: ea8adaba2fabcc74193171070420d8ef, type: 2}
-  DanBan: {fileID: 317787749736022649, guid: 2b2de7c119cc2ad47aee98b687eb2644, type: 3}
-  tiengSung: {fileID: 8300000, guid: 0cef158de8a3f284d807c0151af8a33f, type: 3}
-  luomSung: {fileID: 8300000, guid: 2afd7272534478c4c9139adcb8113554, type: 3}
-  Jump: {fileID: 8300000, guid: 0a8a1e25566e46c45881199adb2a2d67, type: 3}
