@@ -18,6 +18,7 @@ public class MainMenu : MonoBehaviour
     {
         gameObject.SetActive(true);
         Map.SetActive(false);
+        obVideo.SetActive(false);
         if(videolayer != null)
         {
             videolayer.loopPointReached += (vp) =>
@@ -51,6 +52,10 @@ public class MainMenu : MonoBehaviour
             root.style.display = DisplayStyle.None;
             obVideo.SetActive(true);
             videolayer.Play();
+        }
+        else
+        {
+            SceneManager.LoadScene(map1.name);
         }
 
     }
