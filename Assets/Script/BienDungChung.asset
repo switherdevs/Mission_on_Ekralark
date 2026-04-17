@@ -22,3 +22,4 @@ MonoBehaviour:
   Gun_walk: {fileID: 7400000, guid: cfa782188dd67bb4ca3054dec5427b25, type: 2}
   Gun_Run: {fileID: 7400000, guid: 95f8cfa51fcb0cf4bb2fe402f1ab1fe7, type: 2}
   Gun_Nhay: {fileID: 7400000, guid: ea8adaba2fabcc74193171070420d8ef, type: 2}
+  Dead: {fileID: 7400000, guid: d4a7ff7c47c2f5a4ca5935235a82f9e6, type: 2}

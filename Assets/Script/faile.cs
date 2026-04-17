@@ -6,7 +6,7 @@ public class faile : MonoBehaviour
     [SerializeField]
     private Object MapHienTai;
     [SerializeField]
-    private SpriteRenderer Fauile;
+    private GameObject Fauile;
     void Start()
     {
         Fauile.gameObject.SetActive(false);

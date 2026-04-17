@@ -4,7 +4,7 @@ using UnityEditor.SearchService;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+using System.Collections;
 public class PlayerMovement : MonoBehaviour
 {
     // animation_chung
@@ -15,13 +15,20 @@ public class PlayerMovement : MonoBehaviour
     //âm thanh
     [SerializeField] private AudioSource nhacnen;
     [SerializeField] private AudioSource AmthanhTong;
+
     [SerializeField] private AudioClip nhac;
+    [SerializeField] private AudioClip nhacFigt;
+
     [SerializeField] private AudioClip dibo;
     [SerializeField] private AudioClip chay;
     [SerializeField] private AudioClip LuomSung;
     [SerializeField] private AudioClip Nhay;
     [SerializeField] private AudioClip TiengSung;
     [SerializeField] private AudioClip kickSound;
+    [SerializeField] private AudioClip Heal;
+    [SerializeField] private AudioClip WinGame;
+    [SerializeField] private AudioClip Deadsound;
+
 
     // các biến khác trong game
     [Header("Speed")]
@@ -44,7 +51,6 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]
     public LayerMask GroundLayer;
 
-    private float khoangCach_tiengsung = 0;
 
     //animation
     Animator ani;
@@ -60,7 +66,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Transform diemda;
     [SerializeField] private float BanKinhcuDa = 0.5f;
     [SerializeField] private float LucDa = 10f;
-    
+
+    bool dead = false;
     bool isGrounded;
     bool hasGun;
 
@@ -82,6 +89,14 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        if (dead) return;
+        
+        if(MauHienTai <= 0)
+        {
+            dead = true;
+            StartCoroutine(die());
+            return;
+        }
 
         if (Input.GetKeyDown(KeyCode.F))
         {
@@ -114,11 +129,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
 
-        if (hasGun && Input.GetMouseButtonDown(0) && Time.time >= khoangCach_tiengsung)
-        {
-            AmThanh(TiengSung);
-            khoangCach_tiengsung = Time.time + 0.5f;
-        }
+
 
         if (!isGrounded)
         {
@@ -180,14 +191,17 @@ public class PlayerMovement : MonoBehaviour
         }
 
     }
-
+    void TangMau(float TangMau)
+    {
+        MauHienTai += TangMau;
+        MauHienTai = Mathf.Clamp(MauHienTai, 0, MaxMau);
+        UpdateThanhMau();
+    }
     void MatMau(float Damge)
     {
         MauHienTai -= Damge;
         MauHienTai = Mathf.Clamp(MauHienTai, 0, MaxMau);
         UpdateThanhMau();
-
-        if (MauHienTai <= 0) die();
     }
     void AmThanh(AudioClip clip, bool loop = false)
     {
@@ -207,8 +221,6 @@ public class PlayerMovement : MonoBehaviour
         {
             AmthanhTong.PlayOneShot(clip);
         }
-
-
     }
 
     void DungAmThanh()
@@ -251,6 +263,10 @@ public class PlayerMovement : MonoBehaviour
                 ChangeAnimation(animation_chung.idel_gun);
             }
         }
+        if (other.CompareTag("Win"))
+        {
+            AmthanhTong.PlayOneShot(WinGame);
+        }
 
         if (other.CompareTag("spear"))
         {
@@ -260,6 +276,20 @@ public class PlayerMovement : MonoBehaviour
         if (other.CompareTag("TenLua"))
         {
             MatMau(10f);
+        }
+        if (other.CompareTag("KamiKaze"))
+        {
+            MatMau(20f);
+        }
+        if (other.gameObject.CompareTag("Heal"))
+        {
+            AmThanh(Heal);
+            TangMau(10f);
+        }
+        if (other.CompareTag("KichHoatBoss"))
+        {
+            nhacnen.clip = nhacFigt;
+            nhacnen.Play();
         }
     }
     void kick()
@@ -285,8 +315,11 @@ public class PlayerMovement : MonoBehaviour
             Gizmos.DrawWireSphere(diemda.position, BanKinhcuDa);
         }
     }
-    void die()
+    IEnumerator die()
     {
+        AmthanhTong.PlayOneShot(Deadsound);
+        ChangeAnimation(animation_chung.Dead);
+        yield return new WaitForSeconds(3f);
         SceneManager.LoadScene(MapHienTai.name);
     }
 

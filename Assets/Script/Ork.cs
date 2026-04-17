@@ -7,7 +7,7 @@ public class Ork : MonoBehaviour
 {
 
     [SerializeField] private float move = 2f;
-    [SerializeField] private float StopTime = 2f;
+    [SerializeField] private float StopTime = 1f;
     [SerializeField] private Transform checkTuong;
     [SerializeField] private LayerMask checkLayer;
     // tan cong
@@ -27,8 +27,11 @@ public class Ork : MonoBehaviour
     [SerializeField] private AnimationClip idle;
     [SerializeField] private AnimationClip DiBo;
     [SerializeField] private AnimationClip Dead;
-
-
+    //amthanh
+    [SerializeField] private AudioSource Amthanhtong;
+    [SerializeField] private AudioClip Chet;
+    [SerializeField] private AudioClip TenLua;
+ 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -64,15 +67,16 @@ public class Ork : MonoBehaviour
 
         if (HitWall)
         {
-            StartCoroutine(WaitAndClip());
+            if (!Dangdung)
+            {
+                StartCoroutine(WaitAndClip());
+            }
             return;
         }
 
         Animationplay(DiBo);
         float Huong = MatPhai ? 1 : -1;
-
         rb.linearVelocity = new Vector2(move * Huong, rb.linearVelocity.y);
-
 
     }
     IEnumerator WaitAndClip()
@@ -103,8 +107,8 @@ public class Ork : MonoBehaviour
         if (PreFabDan != null)
         {
             GameObject VienDan = Instantiate(PreFabDan, FirePoit.position, FirePoit.rotation);
-
-            if (MatPhai)
+            Amthanhtong.PlayOneShot(TenLua);
+                if (MatPhai)
             {
                 VienDan.transform.rotation = Quaternion.Euler(0, 0, 0);
             }
@@ -131,7 +135,7 @@ public class Ork : MonoBehaviour
         if (collision.gameObject.CompareTag("Dan"))
         {
             StopAnimation();
-
+            Amthanhtong.PlayOneShot(Chet);
             Animationplay(Dead);
             Destroy(gameObject, 0.6f);
             Destroy(collision.gameObject);

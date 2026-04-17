@@ -10,6 +10,7 @@ public class MainMenu : MonoBehaviour
     [SerializeField] public Object map1;
     [SerializeField] public GameObject Map;
     [SerializeField] public VideoPlayer videolayer;
+    [SerializeField] public VideoPlayer videolayer_background;
     [SerializeField] public GameObject obVideo;
 
     private VisualElement root;
@@ -51,6 +52,7 @@ public class MainMenu : MonoBehaviour
         {
             root.style.display = DisplayStyle.None;
             obVideo.SetActive(true);
+            videolayer_background.SetDirectAudioMute(0, true);
             videolayer.Play();
         }
         else

@@ -17,6 +17,12 @@ TagManager:
   - Dan
   - spear
   - TenLua
+  - Jump_pack
+  - KamiKaze
+  - KichHoatBoss
+  - Heal
+  - Boss
+  - Win
   layers:
   - Default
   - TransparentFX
@@ -24,8 +30,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - item
+  - Ork
   - Ground
   - player
   - Poss process

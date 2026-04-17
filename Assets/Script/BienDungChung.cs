@@ -17,6 +17,8 @@ public class BienDungChung : ScriptableObject
     [SerializeField] public AnimationClip Gun_walk;
     [SerializeField] public AnimationClip Gun_Run;
     [SerializeField] public AnimationClip Gun_Nhay;
+    //trung tinh
+    [SerializeField] public AnimationClip Dead;
 
 
 

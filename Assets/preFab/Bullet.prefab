@@ -213,6 +213,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fd9e2e80d445eeb43a3ca14fb7fadf0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  bullletHieuUng: {fileID: 5595850666953603348, guid: 1213d35bb766a774095157dee7cacf04, type: 3}
   Life_time: 5
 --- !u!61 &4441106088623940195
 BoxCollider2D:
